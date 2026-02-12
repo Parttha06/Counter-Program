@@ -2,21 +2,12 @@
 
 A simple and clean counter application built with HTML, CSS, and JavaScript. Perfect for beginners learning DOM manipulation and event handling!
 
-## 📸 Preview
-
-![Counter Demo](screenshot.png)
-> *Add a screenshot of your counter here!*
-
 ## ✨ Features
 
 - ➕ **Increment Counter** - Increase the count with a single click
 - ➖ **Decrement Counter** - Decrease the count with a single click
 - 🎨 **Clean UI** - Simple and intuitive interface
 - 📱 **Responsive Design** - Works on all device sizes
-
-## 🚀 Demo
-
-[Live Demo](#) <!-- Add your live demo link here -->
 
 ## 🛠️ Built With
 
@@ -131,9 +122,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Partha Biswas**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Partha Biswas](https://linkedin.com/in/YOUR_LINKEDIN)
-- X: [@YOUR_X_HANDLE](https://x.com/YOUR_X_HANDLE)
+- GitHub: [Parttha06](https://github.com/Parttha)6)
+- LinkedIn: [Partha Biswas](www.linkedin.com/in/partha-biswass)
 
 ## ⭐ Show Your Support
 
